@@ -1,0 +1,4 @@
+2025-01-15 14:25:30 | INFO | main | Connected to Binance Testnet
+2025-01-15 14:25:31 | INFO | place_limit_order | Placing limit SELL 0.005 BTCUSDT @ 50000
+2025-01-15 14:25:32 | INFO | place_limit_order | Order placed: 1987654321
+

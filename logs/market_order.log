@@ -1,0 +1,4 @@
+2025-01-15 14:23:10 | INFO | main | Connected to Binance Testnet
+2025-01-15 14:23:11 | INFO | place_market_order | Placing market BUY 0.01 BTCUSDT
+2025-01-15 14:23:12 | INFO | place_market_order | Order placed: 2156789432
+
