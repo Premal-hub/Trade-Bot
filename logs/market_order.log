@@ -1,6 +1,8 @@
-2026-02-26 01:17:51 | INFO | _init_client | Connected to Binance Testnet
-2026-02-26 01:17:51 | INFO | place_market_order | Placing market BUY 0.003 BTCUSDT
-2026-02-26 01:17:52 | INFO | place_market_order | Order placed: 12547403563
-2026-02-26 01:17:52 | INFO | place_market_order | Market order placed successfully: orderId=12547403563
-2026-02-26 01:17:52 | DEBUG | place_market_order | API response: {'orderId': 12547403563, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'NEW', 'executedQty': '0.000', 'avgPrice': '0.00', 'updateTime': 1708921072000}
+
+2026-02-26 01:20:15 | INFO | _init_client | Connected to Binance Testnet
+2026-02-26 01:20:15 | INFO | place_market_order | Placing market BUY 0.003 BTCUSDT
+2026-02-26 01:20:16 | INFO | place_market_order | Order placed: 12547417655
+2026-02-26 01:20:16 | INFO | place_market_order | Market order placed successfully: orderId=12547417655
+2026-02-26 01:20:16 | DEBUG | place_market_order | API response: {'orderId': 12547417655, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'NEW', 'executedQty': '0.000', 'avgPrice': '0.00', 'updateTime': 1708921216000}
+
 
