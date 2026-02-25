@@ -1,6 +1,6 @@
 """
 Binance Futures API client
-"""
+""" 
 
 from binance.client import Client
 from bot.logging_config import logger
