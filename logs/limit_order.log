@@ -1,4 +1,6 @@
-2025-01-15 14:25:30 | INFO | main | Connected to Binance Testnet
-2025-01-15 14:25:31 | INFO | place_limit_order | Placing limit SELL 0.005 BTCUSDT @ 50000
-2025-01-15 14:25:32 | INFO | place_limit_order | Order placed: 1987654321
+2026-02-26 01:18:06 | INFO | _init_client | Connected to Binance Testnet
+2026-02-26 01:18:06 | INFO | place_limit_order | Placing limit SELL 0.003 BTCUSDT @ 80000.0
+2026-02-26 01:18:07 | INFO | place_limit_order | Order placed: 12547403936
+2026-02-26 01:18:07 | INFO | place_limit_order | Limit order placed successfully: orderId=12547403936
+2026-02-26 01:18:07 | DEBUG | place_limit_order | API response: {'orderId': 12547403936, 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'status': 'NEW', 'executedQty': '0.000', 'price': '80000.0', 'avgPrice': '0.00', 'timeInForce': 'GTC', 'updateTime': 1708921087000}
 
